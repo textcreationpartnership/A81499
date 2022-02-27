@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dammee cavalliers vvarning piece, in a view on the prophecy of the prophet Obadiah against the Idumean armies, that so cruelly insult over the Church and people of God.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81499</idno>
+            <idno type="STC">Wing D155</idno>
+            <idno type="STC">Thomason 669.f.6[104]</idno>
+            <idno type="STC">ESTC R212586</idno>
+            <idno type="EEBO-CITATION">99871190</idno>
+            <idno type="PROQUEST">99871190</idno>
+            <idno type="VID">160965</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160965)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dammee cavalliers vvarning piece, in a view on the prophecy of the prophet Obadiah against the Idumean armies, that so cruelly insult over the Church and people of God.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abraham Everet against Saint Magnus Church, at London Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb. 18 1642.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Obadiah --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160965:1" rendition="simple:additions"/>
+            <p>THE DAMMEE CAVALLIERS Warning Piece, In a view on the Prophecy of the Prophet OBADIAH: Againſt the Idumean Armies, that ſo cruelly inſult over the Church and People of God.</p>
+            <q>
+               <bibl>
+                  <hi>Auguſt. Civita. Dei, lib.</hi> 2. <hi>cap.</hi> 21.</bibl> There is not any true Juſtice in any Common-wealth whatſoever, but in that whereof Chriſt is the founder and the ruler, if you pleaſe to call that a Common-weal, which we can<g ref="char:EOLhyphen"/>not deny is the weale of the Commonalty.</q>
+            <q>
+               <bibl>
+                  <hi>Amos 4.18.</hi>
+               </bibl> Your young men have I ſlaine with the ſword, and have taken away your horſes; and I have made the ſtinke of your Campes to come up unto your noſtrils, yet have yee not returned unto mee, ſaith the Lord.</q>
+            <p>LONDON, Printed for <hi>Abraham Everet</hi> againſt Saint <hi>Magnus</hi> Church, at London Bridge, <hi>Anno Dom.</hi> MDCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exposition">
+            <pb n="1" facs="tcp:160965:2"/>
+            <argument>
+               <head>THE ARGVMENT.</head>
+               <p>THe people of Edom were mortall enemies to the Iſraelites, although their predeceſ<g ref="char:EOLhyphen"/>ſors were brethren, <hi>Eſau</hi> and <hi>Jacob;</hi> yet were the Idumeans a continuall vexation to the Church of Iſrael, and that not only in themſelves, but by ſtirring up other neigh<g ref="char:EOLhyphen"/>bouring Nations againſt them, by which meanes the people of God were exceedingly diſtracted: Therefore the Lord ſent the Prophet <hi>Obadiah</hi> to preach that glorious con<g ref="char:EOLhyphen"/>queſt which God had determined to worke for his Church, and the great ruine, and mi<g ref="char:EOLhyphen"/>ſery which ſhould befall Edom, and all malignants in the advancing of the Kingdome of Ieſus Chriſt.</p>
+            </argument>
+            <div n="1" type="verse">
+               <head>
+                  <hi>Verſe 1.</hi> The viſion of <hi>Obadiah:</hi> Thus ſaith the Lord God concerning Edom; we have heard a rumor from the Lord, and an ambaſſador is ſent among the heathen: Ariſe yee, and let us riſe up againſt her in battel.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He viſion)</hi> imports as much as Revelation; for as oft as the Scrip<g ref="char:EOLhyphen"/>ture makes mention of ſpeciall viſions which appeared to the Prophets, wherby the Lord meant the better to confirme them when he would have ſome excellent thing come to light, wee are to underſtand that God did it by Revelation, in thoſe daies when the Scripture ſaith, <hi>that the word of the Lord was pretious,</hi> the reaſon was, becauſe there was no manifeſt viſion, 1. <hi>Sam.</hi> 3.1. So thoſe Revelations in <hi>Num.</hi> 12.6. are called viſions. The meaning then is as much, as if it had been ſaid; There is nothing in this book but what the Prophet (being enlightned, and having his eies opened by God) ſawe by ſpeciall Revelation, <hi>Thus ſaid the Lord God con<g ref="char:EOLhyphen"/>cerning Edom. Tind.</hi> tranſlates it, <hi>Thus hath the Lord God ſpoken upon Edom.</hi> The Prophet deli<g ref="char:EOLhyphen"/>vered the word, the rod and execution was to follow, to make good that word: for it was not a fancy of his owne imagination, but the very word of the Lord, againſt <hi>Edom. Edom</hi> is a name of <hi>Eſau</hi> given upon his greedy deſire, or mocking his intemperance, who ſayd to <hi>Iacob, Feed me I pray thee with that red pottage, therefore his name was called Edom, Gen.</hi> 25.30. But it is here taken for the inhabitants of the Country, which were the poſterity of <hi>Edom.</hi> The Rabbins uſually by Edom underſtand Rome. <hi>Galatinus de Arcan. lib.</hi> 4. <hi>c.</hi> 28. The Thar<g ref="char:EOLhyphen"/>gum ſay alſo that <hi>Iulius Caeſar,</hi> and the ſucceeding Emperours, were originally of Edom. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or</hi> in <hi>Mal. We have heard a rumor from the Lord, and an Ambaſſador is ſent among the heathen:</hi> The Phyliſtines aſſailed and moleſted the Jewes on the one ſide, by raiſing warre againſt them; on the other ſide they had the Ammonites, and the Moabites: And on the other ſide were the Idumeans, or people of Edom. They were of the Jewes bloud, in <hi>Iſaac</hi> and <hi>Rebecca,</hi> the remembrance wherof ought to have turned them from all hatred, and ranchor, but they were trecherous, ſtill plotting, and working to bring the people of God to ruine: There<g ref="char:EOLhyphen"/>fore the Lord ſends the Prophet here to thunder a terrible meſſage in their eares, <hi>Ariſe yee, and let us riſe up againſt her in battel Tind.</hi> hath it, <hi>Vp let us ariſe, and fight againſt them:</hi> And the Prophet <hi>Ieremiah</hi> ſaith to the ſame effect; <hi>Gather ye together and come againſt her to the battel,</hi> Jer. 49.14. <hi>For God had ſworne by himſelfe that Bozra</hi> (the chiefe City in Edom)
+<pb n="2" facs="tcp:160965:3"/>
+                  <hi>ſhould be brought to ruine, and deſolation:</hi> verſe 13. a fearefull doome for all damme Cava<g ref="char:EOLhyphen"/>liers and enemies to the Church of God; God chargeth his people to gather themſelves together, to fight againſt his and their enemies, and to admit of no peace with them.</p>
+            </div>
+            <div n="2" type="verse">
+               <head>
+                  <hi>Verſe 2.</hi> Behold, I have made thee ſmall among the heathen: thou art greatly deſpiſed.</head>
+               <p>
+                  <hi>BEhold, I have made thee ſmall among the heathen:</hi> Tind. <hi>I will make thee ſmall:</hi> Al<g ref="char:EOLhyphen"/>though the wicked Idumeans reſted ſecure in their abundance, &amp; were become great, yet the Prophet tells them, that the time was nigh at hand wherein they ſhould be ſcattered, and though they were a great Army, yet ſhould there but a few remaine: For what can the wicked conceive in God, but an extreame ſecurity? and therefore when the Majeſty of God commeth before them, they fall; but the faithfull on the contrary, receive great joy and ſweet<g ref="char:EOLhyphen"/>neſſe in the preſence of God: Although the Lord ſhould ſo ſharply correct his people, as if he meant to caſt them off, and ſuffer wicked men to domineere for a time, yet notwithſtan<g ref="char:EOLhyphen"/>ding he will ſhew in the end ſuch effects that they ſhall find how good the Lord is. By <hi>the Heathen</hi> here is underſtood all people beſides the Jewes, all Infidells, Gods people onely be<g ref="char:EOLhyphen"/>ing taken from amongſt them, <hi>Iſae.</hi> 49.6.</p>
+               <p>
+                  <hi>Thou art greatly deſpiſed;</hi> ſome tranſlations, <hi>thou art utterly deſpiſed;</hi> Tind. <hi>Thou ſhalt bee utterly,</hi> &amp;c. All the heathen even thoſe to whom they were moſt endeared, hee tells them were all ready to come upon them to helpe Iſrael under the leading of the Almighty, and that at an houres warning, whenſoever he ſhall pleaſe to call them forth, by whom they ſhould be ſet at naught and lightly accounted of, even as a baſe vile people not worthy of any reſpect or favour.</p>
+            </div>
+            <div n="3" type="verse">
+               <head>
+                  <hi>Verſe 3.</hi> The pride of thine heart hath deceived thee: thou that dwelleſt in the clefts of the rocke, whoſe habitation is high, that ſaith in his heart; who ſhall bring me downe to the ground?</head>
+               <p>
+                  <hi>THe pride of thy heart hath deceived thee,</hi> Tin. <hi>hath lift thee up:</hi> The Prophet here tells them that they were ſo ſwelled with pride, that they thought that none was able to withſtand them, but alas they did but delude themſeves; for the Lord would ſo ſtrengthen his people, and raiſe ſuch a mighty power againſt them, as ſhould bring them to ruine and deſolation: Here the Lord ſhewes wicked men what all their cunning devices, and wicked treacheries againſt his people will come to in the end; God will ſo fight for his Saints, that their ene<g ref="char:EOLhyphen"/>mies ſhall be deſtroyed; yea God will turne the hearts of thoſe whom they have wickedly ſeduced, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o fight with them againſt the power of Jeſus Chriſt, that they ſhall helpe the peo<g ref="char:EOLhyphen"/>ple of God, rather then the Lord will ſee them or their cauſe periſh: when wicked men grow moſt mad againſt the people of God, and do them moſt wrong, then is God neareſt at hand to helpe: <hi>Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 27 2. <hi>Thou that dwelleſt in the clefts of the rock whoſe habitation is on high,</hi> Tind. <hi>In the ſtrong holds of ſtones and haſt made thee an high ſeate:</hi> Theſe places were like Caſtles cut out of the Rocks, ſo that they were as clefts in Rocks, but high upon hills; So that it is as much as if the Prophet had ſaid, oh ye Idumeans, that ſtrengthen your ſelves with Caſtles, and fortifications, and think your ſelves ſecure in your ſtrong holds, know this, that the hand of God can fetch you out thence; do not thinke that your Caſtles and Towers ſhall ſhelter your wicked deſign: <hi>That ſaiſt in thy heart who ſhall bring me down to the ground.</hi> They thought themſeves ſo ſecure that none could conquer them: As <hi>Pharoah</hi> ſaid, <hi>who is the Lord? Gen.</hi> ſo theſe ungodly Idolatrous heathens cried out, who ſhall caſt us downe to the ground? oh thought they, is not <hi>Moab</hi> our deare friend, are not all the Gentiles about us at peace with us, and have we not the Jewes in ſubjection; who then ſhall do us any harme? who is able to caſt us downe? why here the Prophet tells them that even they ſhould be thus deſpiſed and brought to ruine, though they thought themſelves ſo great that none durſt dare to come a<g ref="char:EOLhyphen"/>gainſt them, they ſhould be conquered, they ſhould be caſt downe to the ground; God cares not for the lofty looks of all the Malignants in the world, when he comes once againſt them, he will throw them and all their Caſtles and ſtrong holds to the ground, which is a great
+<pb n="3" facs="tcp:160965:4"/>comfort to the Church of God, becauſe he himſelf ſends them to fight his own cauſe, and happy are they though they die in ſuch a quarrel.</p>
+            </div>
+            <div n="4" type="verse">
+               <head>
+                  <hi>Verſe 4.</hi> Though thou exalt thy ſelf as the eagle, and though thou ſet thy neſt among the ſtarres, thence will I bring thee down, ſaith the LORD.</head>
+               <p>
+                  <hi>THough thou exalt thy ſelf as the eagle,</hi> Tin. <hi>Wenteſt up as high as the eagle.</hi> They dwelt in a ſtony and hilly country, part of <hi>Arabia</hi> like unto the Alps, high hills, or as our countrey of <hi>Wales,</hi> a very large and barren place, <hi>Chriſtianus Adricomius Annot.</hi> 5. <hi>in Chrogr. tabulam.</hi> In flying to theſe high hills, they thought to be exceeding ſecure, but the Prophet tells them that were their hills as high as an eagle could fly, above that height they are, it could not priviledge them from Gods Judgements, or be a ſanctuary to ſave them from his wrath and diſpleaſure. Let the wicked perſecutours of the Church of God hide themſelves where they can, let them be ſure that when God comes to judgement, he will finde them out. <hi>Mich</hi> 2.10.</p>
+               <p>
+                  <hi>And though thou ſet thy neſt among the ſtarres.</hi> Here the Prophet derides the follie of the Idumeans, who reſting upon their own ſecurity durſt be ſo bold as to promiſe themſelves continuall happineſſe, even as if it had been in their power to bring the event of things to paſſe by their ſtarre gazing ſorcery, wherein we have a fair looking glaſſe to behold the fooliſh pride wherewith all the wicked are puffed up, and the damnable concluſions of their ſecret fury; as if by their own fancie they could govern all things, whoſe plots the Apoſtle <hi>Iames</hi> doth well diſcover, <hi>We will go into ſuch a city (ſay they) we will buy and ſell and get gain, and yet in the mean while they know not what ſhall come to paſſe to morrow</hi> Iames 4.13.</p>
+               <p>What have the plots of the Papiſts and wicked men been againſt this poore Kingdome of <hi>England?</hi> one while they are reſolved to take us captives, to cut our throats, and to lay our towns and cities waſte: when that will not take, then they ſeek the ſecret overthrowing of the Church and State. O what a damnable plot was that when they were reſolved not only to blow up the Parliament houſe, and lay it waſte, (when they cryed <hi>raze it, raze it,</hi> even <hi>to the ground</hi>) but to overthrow both Church and Commonwealth, and that Honou<g ref="char:EOLhyphen"/>rable aſſembly together, how often have they appointed our men for the ſwords &amp; ſlaugh<g ref="char:EOLhyphen"/>ter, our wives &amp; daughters for Rapes and Adulteries, &amp; after to cruell murther, our children to have been daſhed in pieces againſt the ſtones of the ſtreets, as too many have been in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> our cities to have been fired about our eares, and all our wealth to be a prey for them? nay, have not ſome of late diſtributed the ſtations of the City amongſt them againſt they came to plunder it, and to make our ſuburbs ſtables for their horſes, but bleſſed be God they haue hitherto been prevented. God of his great mercy protect us ever from their fury.</p>
+               <p>
+                  <hi>Thence will I bring thee downe ſaith the Lord.</hi> He threatens to overthrow them and all the means they have to eſtabliſh themſelves, that though they proſper a little by his ſuffering, yet they ſhould faile of their hope, for he would deſtroy all that they had done. Let the wicked plot never ſo much againſt the people of God, the Lord will deſtroy all that they work, and fruſtrate their hopes, <hi>The wicked ſhall melt away (ſaith David) his deſire ſhall pe<g ref="char:EOLhyphen"/>riſh,</hi> Pſalm 112.10. Let not any party though never ſo great amongſt us think or imagine to eſtabliſh themſelves without the Lord, by their unlawfull meanes, and pollicie, for God will deſtroy them. The danger hath been lively before our eyes upon that connivence of ours, and with that ſtrength they had raiſed againſt us: what if they ſhould be peaceably ſuffered to grow with us? Is not that which <hi>Pharaoh</hi> feared of Iſrael, more juſtly to be fear<g ref="char:EOLhyphen"/>ed of theſe? for the Jewes never held it lawfull to take away the lives of Phariſees to depoſe them, or to raiſe Arms againſt their counſells, but theſe deny with <hi>Semanca</hi> in his inſtituti<g ref="char:EOLhyphen"/>ons, that Subjects are bound to Proteſtant Soveraignes counſells, or Lawes, and that there<g ref="char:EOLhyphen"/>fore they may rebell by taking up Arms againſt them, if they have power to doe it, <hi>Tit.</hi> 23. <hi>ſect.</hi> 11. <hi>&amp;</hi> 13 and <hi>Dominicus Bannes in</hi> 22 <hi>ſum. Tho. quaeſt.</hi> 12. <hi>Artic.</hi> 2. <hi>Come <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n (there<g ref="char:EOLhyphen"/>fore) let us deal wiſely with them leſt they multiply, and it come to paſſe that when there falleth
+<pb n="4" facs="tcp:160965:5"/>out any warre hereafter, they joyn alſo unto our enemies, and fight againſt us, and ſo get them up.</hi> Exodus. 1.10.</p>
+            </div>
+            <div n="5" type="verse">
+               <head>
+                  <hi>Verſe 5.</hi> If thieves came to thee, if robbers by night, (how art thou cut off?) would they not have ſtollen till they had enough? if the grape gatherers came to thee, would they not leave <hi>ſome</hi> grapes?</head>
+               <p>
+                  <hi>IF thieves came to thee, if robbers by night?</hi> Some tranſlations render it, <hi>came thieves to thee, or robbers by night?</hi> Tin. <hi>If the thieves and robbers come to thee by night</hi> thou taking of thy reſt. The Prophet makes uſe of this example to make them ſenſible of the extream miſery that was to fall upon the<g ref="char:cmbAbbrStroke">̄</g>, which ſhould exceed the affliction of thoſe that are robbed of thieves by night, as if he ſhould have ſaid, do not think it a ſmall judgement, O ye ſons of Eſau, that is denounced againſt you, conſider the terriblenes of being robbed by thieves who breake into your houſes by night, put you into a great fear, carry away your goods, leave you faſt bound, and perhaps take away ſome of the lives in the family, or torture them, to relate where the beſt jewells, gold, and ſilver is, and all this to come upon you on a ſudden, in the ſtill of the night, when you think to ſleep quietly in your beds, yet ſhall this miſery come far ſhort of that which is denounced againſt you.</p>
+               <p>
+                  <hi>How art thou cut off?</hi> ſome render it <hi>how waſt thou brought to ſilence?</hi> this is no more but the admiration propheſied of which ſhould be all about them to ſee their ſudden downfall, and the greatneſſe of it.</p>
+               <p>
+                  <hi>Would they not have ſtollen till they had enough?</hi> Tin. <hi>ſhould they not ſteale,</hi> &amp;c. Here hee ſheweth them that God will not take away part from them, and then goe away, for feare like thieves, when they come to rob, but would ſend ſuch a judgement upon them as ſhould ſweep away all that ever they had.</p>
+               <p>
+                  <hi>If the grape gatherers came to thee, would they not leave thee ſome grapes?</hi> Some render it gleaning grapes. Grapes are never gathered ſo cleane, but they leave here and there a few behind, though there be not a cluſter to eate, <hi>Mic.</hi> 7.1. but the judgement here againſt the Idumeans is ſo terrible, that there ſhall be nothing left, they ſhall be brought to utter ruine and ſhame, God <hi>will make them bare, and uncover their ſecret places, and they ſhall not be able to hide themſelves,</hi> Jer. 49.10. O that the enemies of the Goſpell of Jeſus Chriſt would conſider of this, for certainly if they do not repent, ſuch a judgement will befall them, ei<g ref="char:EOLhyphen"/>ther here, or hereafter in hell: oh that the wicked roarers and curſing Cavaliers of our Land that rage againſt the poore lambs of Jeſus Chriſt would repent, and leave the works of darkneſſe, and walk honeſtly, leave their voluptuouſneſſe, and drunkenneſſe, their cham<g ref="char:EOLhyphen"/>ber works, and wanton tricks, their contentions and malice, and come to walk in the light of the Goſpell of Jeſus Chriſt. <hi>Rom.</hi> 13.13. This would make <hi>England</hi> a happy Kingdome.</p>
+            </div>
+            <div n="6" type="verse">
+               <head>
+                  <hi>Verſe 6.</hi> How are the things of Eſau ſearched out? how are his hid things ſought up?</head>
+               <p>
+                  <hi>HOw are</hi> the things <hi>of Eſau ſearched out?</hi> how <hi>are his hid things ſought up?</hi> Tin. <hi>But how ſhall they ripe Eſau and ſeeke out his treaſures?</hi> The Prophet here ſhews them how won<g ref="char:EOLhyphen"/>derfully God Almighty doth diſcover all their ſinnes, though they be committed never ſo ſecret: wicked men doe not conſider how the Lord doth eye and take notice of all their wayes, but he tells the Idumeans here, as the Prophet <hi>Zephaniah</hi> did the Jewes when their hearts were ſo heardened againſt God, that they would not regard his word nor his Pro<g ref="char:EOLhyphen"/>phets, <hi>I will ſearch Ieruſalem with lights,</hi> ſaith the Lord there, <hi>and viſit the men that are fro<g ref="char:EOLhyphen"/>ſen in their dregges,</hi> Zephaniah 1.12. There is nothing can eſcape the all ſeeing eye of God.</p>
+            </div>
+            <div n="7" type="verse">
+               <head>
+                  <hi>Verſe 7.</hi> All the men of thy confederacy, have brought thee even to the border: the men that were at peace with thee, have deceived thee, and prevailed againſt thee: they that eate thy bread have laid a wound under thee: there is none underſtanding in him.</head>
+               <pb n="5" facs="tcp:160965:6"/>
+               <p>
+                  <hi>ALL the men of thy confederacy have brought thee even to the border.</hi> Tin. renders it, <hi>The men that were ſworn unto thee ſhall drive thee out of the borders of thine own land</hi> he decla<g ref="char:EOLhyphen"/>reth that outward ſuccour ſhall profit the Idumeans nothing at all, &amp; ſhews with what pow<g ref="char:EOLhyphen"/>er the Souldiers ſhould be ſeiſed. Now Idumea did not onely ſtrengthen her ſelf, with the men of Warre of her own countrey, but by a league which ſhe had made with her neigh<g ref="char:EOLhyphen"/>bour Princes, ſhe had ſtrangers ſent to aide her: He ſaith that they with whom the Edo<g ref="char:EOLhyphen"/>mites had made a league, even they themſelves ſhould break their oath, and raiſe their en<g ref="char:EOLhyphen"/>ſignes and gariſons againſt them, and purſue them with the ſword till they had driven them out of their owne land. The hearts of men are ſo in the hands of God, that when it plea<g ref="char:EOLhyphen"/>ſeth him he ſtrengthens them to conquer, and at his will againe they are ſubdued and over<g ref="char:EOLhyphen"/>come. The Prophet declares that even the very ſame people that had bound themſelves in a league, &amp; ſworn by an oath to joyn with the Edomites, even they ſhould gather together againſt them, and drive them out of the borders of Idumea, that is quite out of the land.</p>
+               <p>
+                  <hi>The men that were at peace with thee have deceived thee, and prevailed againſt thee.</hi> Tind. <hi>They that be now at one with thee, ſhall deceive thee, and overcome thee.</hi> He here confirms that which he ſaid before, that even thoſe in whom they had the greateſt confidence, and thought that ſuch a peace had been confirmed, as could not have been ratified, yet the pro<g ref="char:EOLhyphen"/>phet tells them that even in them they ſhould be deceived, <hi>The men of thy peace</hi> in whom thou art ſo confident, they ſhall deceive thee, and prove thy ruine; which ſheweth how vain a thing it is to truſt in man: As if he ſhould ſay that the Edomites playd the fooles to ſuffer themſelves to be gugled with faire promiſes, for we need not doubt but their neighbour Princes were forward enough in promiſing mountaines, and wonders, although ſlow to perform any thing.</p>
+               <p>
+                  <hi>They that eate thy bread have layed a wound under thee.</hi> Tin. <hi>Even that eate thy bread betray thee.</hi> He further amplifies the matter, ſhewing how little confidence is to be found in un<g ref="char:EOLhyphen"/>faithfull man in the time of trouble: <hi>He is</hi> (as Salomon ſaith) <hi>a broken tooth, and a ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ding foot.</hi> Prov. 25.19. The Edomites had put much confidence in ſtrangers, and advanced them to great honour in the land of Idumea, with whom they did eate and drink, and live as one people, but ſee what confidence is in unconſtant man, they bound themſelves with an oath, but ſecretly wrought treaſon, they promiſed them that they ſhould proſper by joyning with them, but when they once gained an opportunity they became their greateſt enemies. A domeſtick enemy is the moſt dangerous of all, &amp; of all domeſtick enemies the table enemies do a Nation or a perſon moſt miſchief, becauſe they are privy to moſt ſecrets: they of Tyre, &amp; their other neighbors, that were ſo treacherous; are not excuſed for this, for though God ſuffered them to be puniſhed becauſe of their ſinnes, yet did not God doe it for their ene<g ref="char:EOLhyphen"/>mies ſake, but to make his power known to rebellious Edom. <hi>Thus ſaith the Lord, for three trangreſsions of Tyrus, and for foure I will not turn to it becauſe they ſhut the whole captivity in Edom, and have not remembred the brotherly covenant.</hi> Amos 1.9 Breakers of leagues, ru<g ref="char:EOLhyphen"/>ces, and covenants are <hi>Rom.</hi> 13. ranked amongſt ſuch whom God in his ſecret judgement hath given up to a reprobate ſenſe, <hi>Faederum tutor &amp; vindex Deus eſt,</hi> God is as it were a tu<g ref="char:EOLhyphen"/>tour or protectour of leagues, and ſeverely revengeth himſelf upon the breakers of them.</p>
+               <p>Yet muſt we take heed how we make covenants with Idolaters, and unbelievers, leſt they draw us from the true ſervice of God, to the prophane worſhip of Idolls, <hi>for they will cauſe thy ſonne to turn away from me</hi> (ſaith the Lord) <hi>and ſerve other gods.</hi> Amos 1.6. And there<g ref="char:EOLhyphen"/>fore ſaith Paul <hi>be not unequally yoaked with infidells.</hi> 2. Cor. 16.14. Which ſimilitude may teach us this leſſon that the yoke ſo holdeth the yoked together, that either both muſt draw one way, and ſo may we be drawn to Idolatry, or elſe contention will breake the teame and yoake in pieces, and ſo occaſion ſome miſchief to enſue.</p>
+               <pb n="6" facs="tcp:160965:7"/>
+               <p>
+                  <hi>There is none underſtanding in him.</hi> Tind. <hi>Or ever thou perceyveſt it.</hi> He ſhewes here, that God did not correct them ſo rigorouſly, is for good reaſon; for they were a people of none underſtanding, like thoſe <hi>Iſa.</hi> 27.11. <hi>a people of no underſtanding: therefore he that mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them will not have mercy on them, and he that formed them, will ſhew them no favour.</hi>
+               </p>
+               <p>For ſeeing that true wiſdome conſiſteth in the fear of God (who is the fountaine thereof) doth not the Holy Ghoſt juſtly condemne all them to be blind earth-worms, who deſpiſe God to walk after their own inordinate luſts.</p>
+               <p>And yet ſuch a blindneſſe cannot excuſe nor free us from being guilty of malice, for they that offend God doe it maliciouſly, notwithſtanding they be hood winked in reſpect of the violences of their luſts: <hi>Ignorance</hi> and <hi>malice</hi> they are joyned together, yet ſo that this ignorance proceedes from a corrupt deſire of the heart, thence is it that the Hebrewes call all ſinnes generally by the name of Ignorances: and thus <hi>Moſes</hi> ſaith, <hi>They are a nation void of counſell, neither is there any underſtanding in them. O that they were wiſe, that they underſtood this, that they would conſider their latter end. How ſhould one chaſe a thouſand, &amp; two put ten thouſand to flight, except their Rock had ſold them, and the LORD had ſhut them up?</hi> Deut. 32.28, 29, 30. Now every one may eaſily be drawn to ſubſcribe to this, by conſider<g ref="char:EOLhyphen"/>ing in himſelf, with what crooked affections he is carried away, for being once deprived of the light of holy doctrine, &amp; deſtitute of underſtanding the devil ſets a ma<g ref="char:cmbAbbrStroke">̄</g> going with ſuch head-ſtrongneſſe, that he neitner fears Gods hand, nor makes any account of his holy word. Hence lit is, that many brainleſſe Bedlams are ſo ignorantly deſperate in wickedneſſe, that they will not ſuffer their judgement to be convinced, that their curſing, ſwearing, drun<g ref="char:EOLhyphen"/>kenneſſe, luxurie, robbing, plundering, and murthering the people of God, will bring them to deſtruction, and damnation without repentance, and ſo go on roaring and domi<g ref="char:EOLhyphen"/>neering in the world for a time till they be met withall by the hand of God, in ſuffering the Devill to draw them to ſuch cruelties againſt the people of God.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
